@@ -5,4 +5,4 @@ The purpose of this project was to learn how to use code to enable AI powered ap
 
 Preview
 
-![github] (https://media.giphy.com/media/LPruO2xRtrR5t50zo9/giphy.gif)
+![github](https://media.giphy.com/media/LPruO2xRtrR5t50zo9/giphy.gif)
